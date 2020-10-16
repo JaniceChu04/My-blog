@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	background-color:#FFEBCD;
+}
+h1 {
+	color:#A0522D;
+	text-align:center;
+}
+p {
+	color:#D8BFBF;
+	text-align:left;
+	line-height: 3.6;
+	font-family: "Time New Roman",
+		Times, serif; 	
+}
+a {
+	text-decoration: none;
+}
+#firstparagraph {
+	line-height: 2.8;
+	color:#B0C4DE; 
+	background-color:#EEE8AA;
+}
+#secondparagraph {
+	line-height: 1.7;
+	color:#D2B48C;
+	background-color:#B8860B;
+}
+.blue {
+	color: #455A64;
+}
+.red {
+	color:#CD853F;
+	line-height: 1.9;
+}
